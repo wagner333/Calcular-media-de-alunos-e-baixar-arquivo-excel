@@ -16,13 +16,11 @@ Para rodar este projeto, você precisa ter os seguintes itens instalados:
 - Composer (para gerenciar dependências PHP)
 - Biblioteca PHPSpreadsheet (para exportar para Excel)
 
-## Instalação de dependecias
-- composer install
-## abra um servidor HTTP
-- php -S localhost:8000
 ## Instalação
 1. **Clone o Repositório**
 
    ```bash
    git clone https://github.com/SeuUsuario/Calcular-media-de-alunos-e-baixar-arquivo-excel.git
    cd Calcular-media-de-alunos-e-baixar-arquivo-excel 
+   composer install
+   php -S localhost:8000
