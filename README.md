@@ -22,5 +22,7 @@ Para rodar este projeto, você precisa ter os seguintes itens instalados:
    ```bash
    git clone https://github.com/SeuUsuario/Calcular-media-de-alunos-e-baixar-arquivo-excel.git
    cd Calcular-media-de-alunos-e-baixar-arquivo-excel 
+## executar o projeto
+   ```bash
    composer install
    php -S localhost:8000
