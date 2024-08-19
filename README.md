@@ -8,6 +8,10 @@ Este projeto é uma aplicação PHP que calcula a média de notas de alunos e pe
 - **Exportação para Excel**: Gera um arquivo Excel (.xlsx) com as notas dos alunos e suas médias.
 - **Interface Simples**: Interface de usuário intuitiva para inserir dados e visualizar resultados.
 
+## imagens do Projeto
+
+**Front end basico do projeto**
+![image](https://github.com/user-attachments/assets/093a331b-cc73-4c82-9ae1-6303f16fa687)
 ## Requisitos
 
 Para rodar este projeto, você precisa ter os seguintes itens instalados:
@@ -24,5 +28,6 @@ Para rodar este projeto, você precisa ter os seguintes itens instalados:
    cd Calcular-media-de-alunos-e-baixar-arquivo-excel 
 ## executar o projeto
    ```bash
-   composer install
-   php -S localhost:8000
+         composer install
+         php -S localhost:8000
+
